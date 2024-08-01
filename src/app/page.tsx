@@ -1,7 +1,7 @@
 'use client'
 
-import { GiftFactory } from 'gift-sdk'
 import { useState } from 'react'
+import { GiftFactory } from './gift/src'
 
 const PK_RECEIPT_1 = ''
 
